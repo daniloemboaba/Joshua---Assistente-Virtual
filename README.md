@@ -6,7 +6,7 @@
         Rápido e expansível.
 
     Técnologias:
-        Reconhecimento de voz: (google, Cmu Sphinix, vosk)
+        Reconhecimento de voz: (googlepara online, vosk para offline)
         Síntese de voz.
         Algum de IA.
         
